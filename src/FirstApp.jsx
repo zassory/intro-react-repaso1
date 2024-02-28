@@ -1,9 +1,5 @@
 
-//Si nosotros no estamos cambiando este valor
-  //O sea es un valor que no se cambia
-  //Fijo
-  //Y si no tiene relacion con ningun hook
-  //Asi no se vuelve a procesar
+import './styles.css'
 const saludo = "Hola";
 
 const numeros = [1,2,3,4,5,6,7,8,9];
